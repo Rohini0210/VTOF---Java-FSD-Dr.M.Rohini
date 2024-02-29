@@ -4,9 +4,7 @@ ____
 
 ## Execution
 
-Clone the repository:
 
-```
 
 Go into the directory:
 ```sh
